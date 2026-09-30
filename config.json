@@ -64,6 +64,25 @@
       "title": "Building REST APIs with FastAPI",
       "description": "Building REST APIs with routing, validation, CRUD operations, and HTTP status codes using FastAPI",
       "path": "assignments/fastapi-rest-apis"
+    },
+    {
+      "id": "testing-and-debugging-python",
+      "title": "Testing and Debugging in Python",
+      "description": "Writing pytest tests, fixing failing Python functions, and handling edge cases",
+      "path": "assignments/testing-and-debugging-python",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Calculator Starter Code",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Pytest Starter Tests",
+          "file": "test_calculator.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
